@@ -4,3 +4,5 @@ makar
 2
 3
 5
+
+KALUGA_SIGNAL
